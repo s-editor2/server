@@ -2,7 +2,6 @@
 Script to run Smart Editor offline server locally on your device.
 
 ## Install on Linux (Ubuntu & Debian)
-
 - ### Updating
   - ` sudo apt-get update`
   - ` sudo apt-get upgrade -y`
@@ -14,3 +13,14 @@ Script to run Smart Editor offline server locally on your device.
   - ` curl  ##### | bash `
 
 ## install on Android [Termux](#)
+- ### Updating
+  - ` pkg update`
+  - ` pkg upgrade -y`
+
+- ### Installing The Requirements
+  - ` pkg install curl python -y `
+
+- ### Installing CLI
+  - ` curl  ##### | bash `
+
+## Install by Docker
