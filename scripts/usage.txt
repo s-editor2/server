@@ -1,0 +1,5 @@
+ s-editor <[args]> <[args2]>
+  
+  check-cli        check the cli
+  check-project    check the project
+  run <[-p port]>  run the server default port is 8080
